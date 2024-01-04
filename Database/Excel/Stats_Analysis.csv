@@ -1,0 +1,635 @@
+Game_ID,Game Title,Average Star Rating,Completed Percentage,Shelved Percentage,Abandoned Percentage
+1,Stardew Valley,3.772727272727273,77.27272727272727,13.636363636363635,0.0
+2,Arma 3,3.0,100.0,0.0,0.0
+3,The Binding of Isaac: Repentance,5.0,50.0,0.0,0.0
+4,Wreckfest,3.5,50.0,0.0,0.0
+5,Sable,2.142857142857143,57.14285714285714,0.0,42.857142857142854
+6,Gravitas,2.0,100.0,0.0,0.0
+7,Assassin's Creed Revelations,3.8333333333333335,100.0,0.0,0.0
+8,Clicker Heroes,2.5,50.0,0.0,0.0
+9,Life is Strange 2,4.25,100.0,0.0,0.0
+10,Barony,3.0,0.0,100.0,0.0
+11,The Forgotten City,4.0,100.0,0.0,0.0
+12,Dead Cells,3.2,100.0,0.0,0.0
+13,Monster Hunter Stories 2: Wings of Ruin,5.0,100.0,0.0,0.0
+14,Warhammer: Vermintide 2,2.0,100.0,0.0,0.0
+15,HuniePop,4.0,100.0,0.0,0.0
+16,Age of Mythology: Extended Edition,5.0,100.0,0.0,0.0
+17,Freedom Planet,2.0,50.0,0.0,50.0
+18,Dragon's Dogma: Dark Arisen,2.875,75.0,0.0,12.5
+19,Wolfenstein II: The New Colossus,2.0,0.0,0.0,100.0
+20,Devil May Cry 5,2.8,90.0,0.0,10.0
+21,BioShock 2,3.8333333333333335,83.33333333333334,0.0,0.0
+22,Party Hard,5.0,100.0,0.0,0.0
+23,Idol Showdown,3.0,100.0,0.0,0.0
+24,Disco Elysium,4.75,87.5,12.5,0.0
+25,Bloodstained: Ritual of the Night,2.0,0.0,0.0,100.0
+26,The Walking Dead: Season Two,4.0,100.0,0.0,0.0
+27,Rhapsody II: Ballad of the Little Princess,5.0,100.0,0.0,0.0
+28,Little Misfortune,2.5,50.0,0.0,50.0
+29,Dead Space 2,2.0,50.0,0.0,0.0
+30,System Shock: Enhanced Edition,3.0,100.0,0.0,0.0
+31,The Lamplighters League,3.0,0.0,100.0,0.0
+32,Crypt of the Serpent King,0.0,100.0,0.0,0.0
+33,Aperture Desk Job,3.3333333333333335,100.0,0.0,0.0
+34,Milk outside a bag of milk outside a bag of milk,1.3333333333333333,100.0,0.0,0.0
+35,Amnesia: The Dark Descent,2.6666666666666665,33.33333333333333,0.0,33.33333333333333
+36,Trove,4.0,100.0,0.0,0.0
+37,Only Up!,0.5,50.0,0.0,50.0
+38,Portal 2,4.526315789473684,100.0,0.0,0.0
+39,The Stanley Parable: Ultra Deluxe,3.8333333333333335,50.0,0.0,0.0
+40,Pseudoregalia,3.5,90.0,10.0,0.0
+41,Lies of P,3.9047619047619047,95.23809523809523,4.761904761904762,0.0
+42,Inscryption,4.0,85.71428571428571,0.0,0.0
+43,Kenshi,0.0,0.0,0.0,100.0
+44,The Secret of Monkey Island: Special Edition,3.5,100.0,0.0,0.0
+45,The Artful Escape,3.5,100.0,0.0,0.0
+46,Cube World,4.0,0.0,0.0,0.0
+47,DC Universe Online,2.0,0.0,0.0,0.0
+48,"Warhammer 40,000: Mechanicus",3.0,100.0,0.0,0.0
+49,Red Dead Redemption 2,3.6666666666666665,83.33333333333334,5.555555555555555,11.11111111111111
+50,Assassin's Creed Valhalla,3.0,66.66666666666666,0.0,33.33333333333333
+51,The Jackbox Party Pack 8,3.0,0.0,0.0,0.0
+52,The Legend of Heroes: Trails in the Sky SC,5.0,100.0,0.0,0.0
+53,Paladins,3.0,100.0,0.0,0.0
+54,Age of Empires II: Definitive Edition,3.0,0.0,100.0,0.0
+55,Field of Glory II,0.0,0.0,0.0,0.0
+56,Weed Shop 3,5.0,100.0,0.0,0.0
+57,Rubber Bandits,0.5,100.0,0.0,0.0
+58,Forager,3.6666666666666665,66.66666666666666,0.0,33.33333333333333
+59,Mad Father,3.0,100.0,0.0,0.0
+60,Ballads at Midnight,4.0,100.0,0.0,0.0
+61,Duke Nukem 3D: Megaton Edition,4.0,100.0,0.0,0.0
+62,MapleStory,2.5,50.0,0.0,0.0
+63,The Council,4.0,100.0,0.0,0.0
+64,Resident Evil 0,1.5,100.0,0.0,0.0
+65,Remnant: From the Ashes,3.0,0.0,50.0,50.0
+66,Monster Hunter: World,3.111111111111111,77.77777777777779,0.0,11.11111111111111
+67,Left 4 Dead,4.0,100.0,0.0,0.0
+68,Borderlands 3,3.4285714285714284,85.71428571428571,0.0,14.285714285714285
+69,Dungeons & Dragons: Dark Alliance,1.0,0.0,0.0,100.0
+70,Super Bomberman R,4.0,100.0,0.0,0.0
+71,Her Story,4.0,100.0,0.0,0.0
+72,Spelunky 2,1.0,0.0,100.0,0.0
+73,Tails of Iron,4.0,0.0,100.0,0.0
+74,SCP: Secret Laboratory,5.0,0.0,0.0,0.0
+75,Starbound,3.0,100.0,0.0,0.0
+76,The Bunny Graveyard,4.0,0.0,0.0,0.0
+77,Age of Wonders 4,5.0,100.0,0.0,0.0
+78,Dust: An Elysian Tail,4.5,100.0,0.0,0.0
+79,Bugsnax,3.5,50.0,50.0,0.0
+80,Scribblenauts Unlimited,4.0,0.0,0.0,100.0
+81,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,3.0,100.0,0.0,0.0
+82,Rayman Legends,5.0,100.0,0.0,0.0
+83,Neon White,3.6666666666666665,100.0,0.0,0.0
+84,Half-Life 2: Episode One,3.0,100.0,0.0,0.0
+85,Lost Judgment,3.7142857142857144,85.71428571428571,14.285714285714285,0.0
+86,Dead by Daylight,2.3333333333333335,33.33333333333333,0.0,0.0
+87,Assassin's Creed Rogue,2.3333333333333335,100.0,0.0,0.0
+88,Rabi-Ribi,3.0,50.0,50.0,0.0
+89,Bloons TD 6,4.4,80.0,0.0,0.0
+90,Metal: Hellsinger,3.3333333333333335,100.0,0.0,0.0
+91,Borderlands 2,3.909090909090909,72.72727272727273,9.090909090909092,18.181818181818183
+92,Mighty Goose,4.0,100.0,0.0,0.0
+93,20 Minutes Till Dawn,2.0,50.0,0.0,0.0
+94,The House in Fata Morgana,5.0,100.0,0.0,0.0
+95,God of War,3.5,83.33333333333334,0.0,16.666666666666664
+96,Amnesia: Rebirth,1.0,0.0,0.0,100.0
+97,Tyrion Cuthbert: Attorney of the Arcane,4.0,100.0,0.0,0.0
+98,Vampire: The Masquerade - Bloodlines,5.0,100.0,0.0,0.0
+99,Metro Exodus,4.0,100.0,0.0,0.0
+100,Max Payne,2.7777777777777777,88.88888888888889,0.0,11.11111111111111
+101,Labyrinth of Refrain: Coven of Dusk,4.0,100.0,0.0,0.0
+102,Fallout: New Vegas,4.166666666666667,91.66666666666666,0.0,0.0
+103,Guild Wars 2,4.0,0.0,0.0,0.0
+104,Resident Evil 6,2.375,87.5,0.0,12.5
+105,Felix the Reaper,2.0,100.0,0.0,0.0
+106,Sonic Generations,3.0,100.0,0.0,0.0
+107,Deus Ex: Revision,3.0,100.0,0.0,0.0
+108,Half-Life 2,3.7142857142857144,85.71428571428571,0.0,0.0
+109,People Playground,5.0,0.0,0.0,0.0
+110,Sniper Elite V2,2.0,0.0,0.0,100.0
+111,The Swapper,3.0,0.0,0.0,0.0
+112,Nobody Saves the World,4.0,100.0,0.0,0.0
+113,Beholder,3.0,100.0,0.0,0.0
+114,Call of Cthulhu,3.0,100.0,0.0,0.0
+115,Noita,4.0,100.0,0.0,0.0
+116,Quake,5.0,100.0,0.0,0.0
+117,Have a Nice Death,3.0,100.0,0.0,0.0
+118,Bleak Faith: Forsaken,2.0,100.0,0.0,0.0
+119,Brutal Orchestra,4.0,100.0,0.0,0.0
+120,The Beginner's Guide,3.0,100.0,0.0,0.0
+121,Tinykin,4.0,100.0,0.0,0.0
+122,Persona 4 Golden,3.6666666666666665,100.0,0.0,0.0
+123,Counter-Strike: Source,3.0,100.0,0.0,0.0
+124,Just Cause 3,3.0,50.0,0.0,50.0
+125,Football Manager 2020,3.0,0.0,0.0,0.0
+126,Unravel Two,4.0,100.0,0.0,0.0
+127,Roboquest,4.0,100.0,0.0,0.0
+128,Evolve Stage 2,2.0,100.0,0.0,0.0
+129,Furi,4.0,100.0,0.0,0.0
+130,Nexomon: Extinction,2.5,100.0,0.0,0.0
+131,Nightmare of Decay,3.0,100.0,0.0,0.0
+132,As Dusk Falls,3.5,100.0,0.0,0.0
+133,Crypt of the NecroDancer,4.0,0.0,100.0,0.0
+134,Euro Truck Simulator 2,3.0,0.0,0.0,0.0
+135,Life is Strange: Before the Storm,3.75,100.0,0.0,0.0
+136,The Stanley Parable,3.0,100.0,0.0,0.0
+137,Cruelty Squad,4.8,80.0,0.0,0.0
+138,Tales of Berseria,3.0,100.0,0.0,0.0
+139,Yu-Gi-Oh! Duel Links,2.0,50.0,0.0,0.0
+140,Jazzpunk: Director's Cut,4.0,100.0,0.0,0.0
+141,Terraria,4.125,81.25,0.0,6.25
+142,SteamWorld Dig 2,4.5,100.0,0.0,0.0
+143,Game Dev Tycoon,2.5,75.0,0.0,0.0
+144,Evoland,4.0,100.0,0.0,0.0
+145,Saints Row 2,3.25,75.0,0.0,25.0
+146,The Forest,3.0,60.0,0.0,20.0
+147,Life is Strange: True Colors,3.25,100.0,0.0,0.0
+148,Deep Sleep Trilogy,4.0,100.0,0.0,0.0
+149,Freddy Fazbear's Pizzeria Simulator,3.5,100.0,0.0,0.0
+150,Railway Empire,3.0,100.0,0.0,0.0
+151,Hello Neighbor,0.0,100.0,0.0,0.0
+152,Sea of Thieves,2.75,25.0,50.0,25.0
+153,Tricky Towers,3.0,50.0,0.0,0.0
+154,Oceanhorn: Monster of Uncharted Seas,4.0,100.0,0.0,0.0
+155,Counter-Strike,3.5,0.0,0.0,0.0
+156,Coral Island,2.5,50.0,0.0,0.0
+157,Mortal Kombat 11,3.0,100.0,0.0,0.0
+158,Yakuza 0,4.111111111111111,83.33333333333334,5.555555555555555,5.555555555555555
+159,Fall Guys,2.5,50.0,0.0,10.0
+160,Symphony of War: The Nephilim Saga,4.0,100.0,0.0,0.0
+161,Oxygen Not Included,4.0,100.0,0.0,0.0
+162,Umineko: Golden Fantasia,5.0,0.0,0.0,0.0
+163,For Honor,2.5,50.0,0.0,0.0
+164,Hypnospace Outlaw,3.5,100.0,0.0,0.0
+165,Streets of Rage 4,4.0,100.0,0.0,0.0
+166,Doki Doki Literature Club Plus!,2.6,80.0,0.0,0.0
+167,Corpse Party: Blood Drive,1.0,0.0,0.0,100.0
+168,BioShock Remastered,0.75,75.0,25.0,0.0
+169,Phoenix Wright: Ace Attorney Trilogy,4.0,100.0,0.0,0.0
+170,Monster Prom,3.0,100.0,0.0,0.0
+171,Spec Ops: The Line,3.5,100.0,0.0,0.0
+172,Tell Me Why,3.0,100.0,0.0,0.0
+173,Rogue Legacy,3.3333333333333335,33.33333333333333,0.0,33.33333333333333
+174,Warhammer: End Times - Vermintide,3.0,100.0,0.0,0.0
+175,Exoprimal,2.0,0.0,0.0,0.0
+176,Halls of Torment,2.0,0.0,0.0,0.0
+177,A Monster's Expedition,4.0,100.0,0.0,0.0
+178,The Messenger,3.8,100.0,0.0,0.0
+179,The Complex: Found Footage,1.0,100.0,0.0,0.0
+180,Bridge Constructor Portal,3.0,100.0,0.0,0.0
+181,Golf It!,3.0,100.0,0.0,0.0
+182,The Henry Stickmin Collection,3.3333333333333335,100.0,0.0,0.0
+183,Hylics,3.0,100.0,0.0,0.0
+184,A Plague Tale: Requiem,4.0,100.0,0.0,0.0
+185,The Callisto Protocol,2.5,75.0,0.0,25.0
+186,Mad Max,4.0,100.0,0.0,0.0
+187,Fallout,3.0,50.0,0.0,50.0
+188,Half-Life: Opposing Force,3.5,100.0,0.0,0.0
+189,Citizen Sleeper,4.0,75.0,0.0,0.0
+190,War Thunder,4.0,100.0,0.0,0.0
+191,Phasmophobia,4.0,50.0,0.0,0.0
+192,Trombone Champ,3.0,0.0,0.0,0.0
+193,World of Guns: Gun Disassembly,2.0,0.0,0.0,0.0
+194,Fistful of Frags,4.0,100.0,0.0,0.0
+195,Beecarbonize,2.0,100.0,0.0,0.0
+196,Cuphead,3.090909090909091,72.72727272727273,9.090909090909092,9.090909090909092
+197,FTL: Faster Than Light,4.0,100.0,0.0,0.0
+198,Assassin's Creed IV Black Flag,4.0,66.66666666666666,16.666666666666664,16.666666666666664
+199,Prodeus,4.0,100.0,0.0,0.0
+200,Hunt: Showdown,4.0,0.0,0.0,0.0
+201,Cat in the Box,5.0,100.0,0.0,0.0
+202,Hogwarts Legacy,2.5454545454545454,54.54545454545454,18.181818181818183,27.27272727272727
+203,Skul: The Hero Slayer,4.0,100.0,0.0,0.0
+204,West of Loathing,4.0,100.0,0.0,0.0
+205,Titan Souls,4.0,0.0,100.0,0.0
+206,The Legend of Heroes: Trails to Azure,4.666666666666667,100.0,0.0,0.0
+207,Project Zomboid,3.0,75.0,0.0,0.0
+208,Darkwood,4.0,100.0,0.0,0.0
+209,Rocket League,3.8,80.0,0.0,0.0
+210,Deponia: The Complete Journey,3.0,0.0,0.0,100.0
+211,Yakuza 4 Remastered,3.6666666666666665,83.33333333333334,0.0,0.0
+212,Tales of Vesperia: Definitive Edition,3.0,50.0,50.0,0.0
+213,Reus,3.0,100.0,0.0,0.0
+214,Krunker,4.0,100.0,0.0,0.0
+215,Spacewar,5.0,100.0,0.0,0.0
+216,Satisfactory,3.0,0.0,100.0,0.0
+217,Muv-Luv Alternative,2.0,100.0,0.0,0.0
+218,Five Nights at Freddy's 2,4.0,100.0,0.0,0.0
+219,Deadpool,2.0,0.0,0.0,100.0
+220,Age of Empires: Definitive Edition,3.0,100.0,0.0,0.0
+221,Mount Your Friends,4.0,0.0,0.0,0.0
+222,Spacelords,2.0,100.0,0.0,0.0
+223,Immortals Fenyx Rising,4.0,100.0,0.0,0.0
+224,Jack Move,3.0,100.0,0.0,0.0
+225,The Silver Case,4.666666666666667,100.0,0.0,0.0
+226,Half-Life 2: Lost Coast,0.0,0.0,0.0,0.0
+227,Borderlands: The Pre-Sequel,2.25,25.0,25.0,50.0
+228,Call of Duty: Black Ops,3.4,80.0,0.0,0.0
+229,Helltaker,3.5,100.0,0.0,0.0
+230,Street Fighter 30th Anniversary Collection,2.0,0.0,0.0,100.0
+231,Telling Lies,2.0,100.0,0.0,0.0
+232,Bayonetta,3.2222222222222223,100.0,0.0,0.0
+233,Tales from the Borderlands,3.5,100.0,0.0,0.0
+234,Cassette Beasts,5.0,100.0,0.0,0.0
+235,Kawaii Deathu Desu,2.0,100.0,0.0,0.0
+236,Saints Row IV,2.0,100.0,0.0,0.0
+237,RimWorld,5.0,0.0,0.0,0.0
+238,Wolfenstein: The New Order,4.0,100.0,0.0,0.0
+239,PlanetSide 2,2.5,0.0,0.0,50.0
+240,Vacation Simulator,2.0,0.0,0.0,100.0
+241,Spark the Electric Jester,3.5,100.0,0.0,0.0
+242,Hyper Light Drifter,3.6666666666666665,100.0,0.0,0.0
+243,Mutant Year Zero: Road to Eden,3.0,100.0,0.0,0.0
+244,Vampyr,0.0,100.0,0.0,0.0
+245,My Time at Sandrock,3.6666666666666665,100.0,0.0,0.0
+246,Giana Sisters: Twisted Dreams,3.0,100.0,0.0,0.0
+247,Among Us,3.090909090909091,54.54545454545454,0.0,9.090909090909092
+248,Azure Striker Gunvolt,3.0,0.0,0.0,0.0
+249,Guacamelee! Super Turbo Championship Edition,2.0,50.0,0.0,50.0
+250,Kathy Rain: Director's Cut,4.0,100.0,0.0,0.0
+251,Cube Escape Collection,3.0,100.0,0.0,0.0
+252,Apex Legends,2.909090909090909,45.45454545454545,0.0,0.0
+253,Fear & Hunger 2: Termina,5.0,100.0,0.0,0.0
+254,Valheim,3.0,100.0,0.0,0.0
+255,Atelier Ryza 3: Alchemist of the End & the Secret Key,5.0,100.0,0.0,0.0
+256,House Flipper,4.0,100.0,0.0,0.0
+257,MapleStory 2,4.0,0.0,0.0,0.0
+258,Hitman: Absolution,3.0,100.0,0.0,0.0
+259,Pizza Possum,2.3333333333333335,100.0,0.0,0.0
+260,Ghostrunner,2.3333333333333335,100.0,0.0,0.0
+261,while True: learn(),1.0,0.0,0.0,100.0
+262,Grand Theft Auto V,3.5,94.44444444444444,5.555555555555555,0.0
+263,Football Manager 2023,2.0,0.0,0.0,0.0
+264,Stick Fight: The Game,3.3333333333333335,66.66666666666666,0.0,0.0
+265,Champions Online,2.0,0.0,0.0,0.0
+266,Duke Nukem 3D,5.0,100.0,0.0,0.0
+267,The Talos Principle,3.5,100.0,0.0,0.0
+268,The Jackbox Party Pack 6,4.0,0.0,0.0,0.0
+269,Octodad: Dadliest Catch,2.5,100.0,0.0,0.0
+270,Block N Load,2.0,100.0,0.0,0.0
+271,Ravenfield,4.0,100.0,0.0,0.0
+272,Factorio,4.25,75.0,25.0,0.0
+273,HunieCam Studio,3.0,0.0,0.0,0.0
+274,PlateUp!,3.0,0.0,0.0,0.0
+275,Yooka-Laylee,2.0,25.0,25.0,25.0
+276,Gone Home,4.0,100.0,0.0,0.0
+277,Wartales,3.0,0.0,100.0,0.0
+278,Remnant II,3.0,80.0,20.0,0.0
+279,Resident Evil 5,2.2,100.0,0.0,0.0
+280,Disc Creatures,4.0,0.0,100.0,0.0
+281,Assassin's Creed Origins,3.1666666666666665,66.66666666666666,0.0,16.666666666666664
+282,Surviving the Aftermath,0.0,0.0,0.0,100.0
+283,A Little to the Left,3.0,100.0,0.0,0.0
+284,The Binding of Isaac: Rebirth,4.0,66.66666666666666,33.33333333333333,0.0
+285,Portal,4.294117647058823,100.0,0.0,0.0
+286,Squad,4.0,0.0,0.0,0.0
+287,VA-11 Hall-A: Cyberpunk Bartender Action,4.25,75.0,25.0,0.0
+288,Persona 4 Arena Ultimax,4.0,100.0,0.0,0.0
+289,Resident Evil 4,5.0,100.0,0.0,0.0
+290,Microsoft Flight Simulator,4.0,100.0,0.0,0.0
+291,Max Payne 3,2.5,75.0,12.5,12.5
+292,Ori and the Blind Forest: Definitive Edition,4.0,100.0,0.0,0.0
+293,Yomawari: Midnight Shadows,4.0,100.0,0.0,0.0
+294,Spirit Hunter: Death Mark,3.3333333333333335,100.0,0.0,0.0
+295,Tower Unite,5.0,0.0,0.0,0.0
+296,Don't Starve Together,2.0,0.0,0.0,0.0
+297,Amnesia: A Machine for Pigs,0.0,100.0,0.0,0.0
+298,Gang Beasts,3.3333333333333335,0.0,0.0,0.0
+299,The Pale Beyond,4.0,100.0,0.0,0.0
+300,Frogun,2.5,0.0,50.0,50.0
+301,Evoland Legendary Edition,1.0,0.0,0.0,100.0
+302,Kingdoms and Castles,3.0,0.0,0.0,0.0
+303,PowerWash Simulator,2.8333333333333335,83.33333333333334,0.0,16.666666666666664
+304,Gorogoa,4.0,100.0,0.0,0.0
+305,Eraser,3.0,100.0,0.0,0.0
+306,Bejeweled 3,4.0,0.0,0.0,100.0
+307,Spore,3.3333333333333335,66.66666666666666,0.0,33.33333333333333
+308,Overlord,3.0,100.0,0.0,0.0
+309,BattleBit Remastered,4.5,50.0,0.0,0.0
+310,Dune: Spice Wars,3.0,100.0,0.0,0.0
+311,Team Fortress 2,3.3636363636363638,54.54545454545454,0.0,0.0
+312,Undertale,4.0,85.71428571428571,9.523809523809524,0.0
+313,Class of '09: The Re-Up,4.5,75.0,0.0,0.0
+314,Ys Origin,2.0,100.0,0.0,0.0
+315,WWE 2K17,2.0,100.0,0.0,0.0
+316,Path of Exile,4.333333333333333,33.33333333333333,0.0,0.0
+317,Cookie Clicker,2.0,66.66666666666666,0.0,0.0
+318,WWE 2K23,4.0,100.0,0.0,0.0
+319,Call of Duty: Black Ops III,2.6,80.0,0.0,0.0
+320,Tales of Arise,1.5,100.0,0.0,0.0
+321,Assassin's Creed Syndicate,2.3333333333333335,66.66666666666666,0.0,33.33333333333333
+322,Sea of Stars,2.5833333333333335,83.33333333333334,8.333333333333332,8.333333333333332
+323,Quantum Break,3.0,100.0,0.0,0.0
+324,Smushi Come Home,1.5,50.0,0.0,0.0
+325,Moonring,1.0,0.0,0.0,100.0
+326,Chivalry 2,3.5,50.0,0.0,0.0
+327,Brotato,3.5,100.0,0.0,0.0
+328,Pineapple on pizza,3.5,50.0,0.0,0.0
+329,Cyberpunk 2077,3.875,100.0,0.0,0.0
+330,Grand Theft Auto: San Andreas,4.333333333333333,88.88888888888889,0.0,0.0
+331,Dungeons 3,5.0,100.0,0.0,0.0
+332,XCOM 2,4.0,100.0,0.0,0.0
+333,Grand Theft Auto III,3.4444444444444446,66.66666666666666,11.11111111111111,11.11111111111111
+334,OneBit Adventure,5.0,100.0,0.0,0.0
+335,SpaceChem,4.0,0.0,100.0,0.0
+336,Cult of the Lamb,3.6666666666666665,83.33333333333334,8.333333333333332,8.333333333333332
+337,Fallen Enchantress: Legendary Heroes,2.0,100.0,0.0,0.0
+338,Football Manager 2022,2.0,0.0,0.0,0.0
+339,Crusader Kings III,4.0,33.33333333333333,0.0,0.0
+340,Nuclear Throne,5.0,100.0,0.0,0.0
+341,A Story About My Uncle,2.3333333333333335,66.66666666666666,0.0,0.0
+342,Persona 5 Royal,3.7222222222222223,88.88888888888889,5.555555555555555,5.555555555555555
+343,Insurgency: Sandstorm,3.0,0.0,0.0,100.0
+344,The Elder Scrolls III: Morrowind,5.0,100.0,0.0,0.0
+345,NEO: The World Ends with You,4.0,100.0,0.0,0.0
+346,Portal Stories: Mel,4.0,100.0,0.0,0.0
+347,Prince of Persia: The Two Thrones,1.0,0.0,0.0,100.0
+348,Shaq Fu: A Legend Reborn,2.0,100.0,0.0,0.0
+349,Arise: A Simple Story,2.0,0.0,0.0,100.0
+350,Sakura Clicker,0.0,100.0,0.0,0.0
+351,Subnautica: Below Zero,2.3333333333333335,66.66666666666666,33.33333333333333,0.0
+352,Emily is Away <3,4.0,100.0,0.0,0.0
+353,System Shock,5.0,100.0,0.0,0.0
+354,Ori and the Will of the Wisps,2.75,100.0,0.0,0.0
+355,Scorn,1.25,75.0,0.0,0.0
+356,Farming Simulator 22,3.0,0.0,0.0,0.0
+357,To the Moon,4.5,100.0,0.0,0.0
+358,Kena: Bridge of Spirits,3.0,50.0,50.0,0.0
+359,Ori and the Blind Forest,3.3333333333333335,100.0,0.0,0.0
+360,Half-Life,3.75,87.5,0.0,0.0
+361,Golf With Your Friends,3.0,100.0,0.0,0.0
+362,Verdun,4.0,0.0,0.0,0.0
+363,Garten of Banban 3,0.0,100.0,0.0,0.0
+364,Insanely Twisted Shadow Planet,1.0,100.0,0.0,0.0
+365,Frostpunk,3.0,0.0,0.0,0.0
+366,Momodora: Reverie Under the Moonlight,3.0,100.0,0.0,0.0
+367,Granblue Fantasy: Versus,4.0,0.0,0.0,0.0
+368,Risk of Rain 2,4.363636363636363,81.81818181818183,0.0,0.0
+369,Goat Simulator,2.6666666666666665,66.66666666666666,0.0,0.0
+370,Potionomics,4.0,100.0,0.0,0.0
+371,Homefront: The Revolution,2.0,100.0,0.0,0.0
+372,Dead Space,4.0,66.66666666666666,0.0,0.0
+373,Splitgate,4.0,100.0,0.0,0.0
+374,Overcooked! 2,3.5,100.0,0.0,0.0
+375,Barotrauma,3.0,50.0,0.0,0.0
+376,The Sinking City,2.0,100.0,0.0,0.0
+377,Rising Storm 2: Vietnam,4.0,0.0,0.0,0.0
+378,Detective Case and Clown Bot in: Murder in the Hotel Lisbon,2.0,100.0,0.0,0.0
+379,Subnautica,3.625,87.5,12.5,0.0
+380,Five Nights at Freddy's 4,4.0,100.0,0.0,0.0
+381,Tropico 5,2.0,100.0,0.0,0.0
+382,Stranded Deep,3.0,100.0,0.0,0.0
+383,"Papers, Please",3.727272727272727,81.81818181818183,0.0,9.090909090909092
+384,Tom Clancy's Rainbow Six Siege,2.5,75.0,0.0,25.0
+385,Celeste,4.0,80.0,5.0,5.0
+386,A Short Hike,3.75,91.66666666666666,8.333333333333332,0.0
+387,Starfield,2.36,44.0,24.0,32.0
+388,Age of Empires III: Definitive Edition,4.0,100.0,0.0,0.0
+389,Void Crew,3.0,0.0,0.0,0.0
+390,Alice: Madness Returns,3.0,100.0,0.0,0.0
+391,Astral Ascent,3.0,100.0,0.0,0.0
+392,Thief: Deadly Shadows,3.0,100.0,0.0,0.0
+393,Cities: Skylines,3.5,50.0,0.0,0.0
+394,Mega Man 11,4.0,100.0,0.0,0.0
+395,Beat Saber,4.8,100.0,0.0,0.0
+396,Gunfire Reborn,4.0,0.0,0.0,0.0
+397,OpenTTD,4.0,100.0,0.0,0.0
+398,Road 96,4.5,100.0,0.0,0.0
+399,Sonic Mania,3.7142857142857144,71.42857142857143,0.0,14.285714285714285
+400,Maneater,3.0,100.0,0.0,0.0
+401,Rivals of Aether,4.0,100.0,0.0,0.0
+402,The Elder Scrolls IV: Oblivion,4.0,100.0,0.0,0.0
+403,Rain World,3.0,100.0,0.0,0.0
+404,We Were Here,2.0,100.0,0.0,0.0
+405,Teardown,2.4,60.0,0.0,20.0
+406,BioShock,4.0,81.81818181818183,9.090909090909092,9.090909090909092
+407,Plague Inc: Evolved,4.5,0.0,0.0,0.0
+408,Synergy,2.0,0.0,0.0,0.0
+409,Sniper Elite 5,4.0,100.0,0.0,0.0
+410,Stumble Guys,1.0,0.0,0.0,0.0
+411,Resident Evil 3,2.375,100.0,0.0,0.0
+412,Counter-Strike 2,2.625,50.0,0.0,0.0
+413,Limbus Company,5.0,50.0,0.0,0.0
+414,En Garde!,3.0,50.0,0.0,25.0
+415,Dishonored,4.0,100.0,0.0,0.0
+416,Later Alligator,4.0,100.0,0.0,0.0
+417,Find Love or Die Trying,4.0,100.0,0.0,0.0
+418,Fight'N Rage,3.0,0.0,100.0,0.0
+419,Pentiment,4.25,100.0,0.0,0.0
+420,Sherlock Holmes: The Devil's Daughter,2.0,0.0,100.0,0.0
+421,The Witcher: Enhanced Edition,4.0,100.0,0.0,0.0
+422,Shantae and the Pirate's Curse,5.0,0.0,0.0,0.0
+423,It Takes Two,4.0,91.66666666666666,8.333333333333332,0.0
+424,Sniper Elite 4,1.0,100.0,0.0,0.0
+425,Fallout Shelter,3.0,100.0,0.0,0.0
+426,Bug Fables: The Everlasting Sapling,4.0,100.0,0.0,0.0
+427,NBA 2K17,2.0,0.0,0.0,100.0
+428,Pumpkin Jack,3.0,100.0,0.0,0.0
+429,New Tales from the Borderlands,1.0,100.0,0.0,0.0
+430,Silence,2.0,100.0,0.0,0.0
+431,Bless Unleashed,1.0,0.0,0.0,100.0
+432,Dying Light,3.6666666666666665,100.0,0.0,0.0
+433,Pikuniku,4.0,100.0,0.0,0.0
+434,Hidden Deep,3.0,0.0,0.0,100.0
+435,The Painscreek Killings,3.0,100.0,0.0,0.0
+436,Wo Long: Fallen Dynasty,1.0,0.0,0.0,100.0
+437,Call of Duty: World at War,2.75,75.0,0.0,0.0
+438,XCOM: Enemy Unknown,4.0,0.0,0.0,100.0
+439,Unholy Heights,4.0,100.0,0.0,0.0
+440,Poly Bridge,3.0,0.0,0.0,0.0
+441,Resident Evil Village,4.333333333333333,100.0,0.0,0.0
+442,A Dance of Fire and Ice,4.0,0.0,100.0,0.0
+443,Lobotomy Corporation,4.25,50.0,50.0,0.0
+444,Gunbrella,3.0,100.0,0.0,0.0
+445,The Legend of Heroes: Trails of Cold Steel,4.0,100.0,0.0,0.0
+446,Heretic's Fork,3.0,100.0,0.0,0.0
+447,Dishonored 2,4.666666666666667,66.66666666666666,33.33333333333333,0.0
+448,Yakuza Kiwami 2,2.888888888888889,88.88888888888889,0.0,0.0
+449,NBA 2K24,3.0,0.0,0.0,0.0
+450,Fallout 2,5.0,100.0,0.0,0.0
+451,Raft,1.5,50.0,50.0,0.0
+452,Warframe,2.6,40.0,20.0,0.0
+453,Bloons Adventure Time TD,3.0,0.0,0.0,0.0
+454,Deadlink,3.0,100.0,0.0,0.0
+455,American Fugitive,0.0,0.0,0.0,100.0
+456,My Name is Mayo,0.0,100.0,0.0,0.0
+457,The Elder Scrolls V: Skyrim,3.9047619047619047,80.95238095238095,4.761904761904762,4.761904761904762
+458,Slime Rancher,2.6666666666666665,100.0,0.0,0.0
+459,Cry of Fear,2.0,50.0,0.0,50.0
+460,Door Kickers,4.0,100.0,0.0,0.0
+461,"That Dragon, Cancer",0.0,100.0,0.0,0.0
+462,SpongeBob SquarePants: The Cosmic Shake,4.0,100.0,0.0,0.0
+463,Yakuza: Like a Dragon,4.4,100.0,0.0,0.0
+464,Death's Door,3.0,100.0,0.0,0.0
+465,Pistol Whip,4.0,100.0,0.0,0.0
+466,Atelier Marie Remake: The Alchemist of Salburg,4.0,100.0,0.0,0.0
+467,Castle Crashers,4.333333333333333,100.0,0.0,0.0
+468,Battle Nations,3.0,100.0,0.0,0.0
+469,No More Room in Hell,4.0,0.0,0.0,0.0
+470,The Evil Within 2,3.6666666666666665,100.0,0.0,0.0
+471,9 Years of Shadows,2.0,0.0,0.0,100.0
+472,Shovel Knight Dig,2.0,0.0,100.0,0.0
+473,Vampire Survivors,3.6470588235294117,58.82352941176471,0.0,11.76470588235294
+474,Teenage Mutant Ninja Turtles: Shredder's Revenge,3.5,50.0,0.0,50.0
+475,Stray,3.588235294117647,100.0,0.0,0.0
+476,Atari 50: The Anniversary Celebration,4.0,100.0,0.0,0.0
+477,Redfall,0.0,100.0,0.0,0.0
+478,Halo: The Master Chief Collection,3.6666666666666665,66.66666666666666,0.0,0.0
+479,Metro 2033,3.5,50.0,50.0,0.0
+480,The Great Ace Attorney Chronicles,5.0,100.0,0.0,0.0
+481,The Wolf Among Us,4.166666666666667,100.0,0.0,0.0
+482,Hollow Knight,4.578947368421052,94.73684210526315,5.263157894736842,0.0
+483,Ys IX: Monstrum Nox,3.0,100.0,0.0,0.0
+484,Night in the Woods,5.0,100.0,0.0,0.0
+485,The Jackbox Party Pack,3.0,0.0,0.0,0.0
+486,Samorost 2,4.0,100.0,0.0,0.0
+487,"Save Me, Sakuya-san!",3.0,100.0,0.0,0.0
+488,Pizza Tower,3.8,100.0,0.0,0.0
+489,Somerville,2.0,0.0,0.0,0.0
+490,Firewatch,2.6,60.0,20.0,0.0
+491,The Dig,4.0,100.0,0.0,0.0
+492,Psychonauts 2,4.125,100.0,0.0,0.0
+493,Nancy Drew: Legend of the Crystal Skull,4.0,100.0,0.0,0.0
+494,Chroma Squad,3.0,100.0,0.0,0.0
+495,Graveyard Keeper,4.0,100.0,0.0,0.0
+496,Marvel's Midnight Suns,4.0,0.0,0.0,0.0
+497,Boyfriend Dungeon,3.0,100.0,0.0,0.0
+498,Assassin's Creed Unity,5.0,100.0,0.0,0.0
+499,Blood: Fresh Supply,5.0,100.0,0.0,0.0
+500,Spark the Electric Jester 3,5.0,100.0,0.0,0.0
+501,Atelier Ryza 2: Lost Legends & the Secret Fairy,4.0,100.0,0.0,0.0
+502,OneShot,4.0,100.0,0.0,0.0
+503,Slay the Spire,3.4285714285714284,71.42857142857143,0.0,0.0
+504,Ryse: Son of Rome,4.0,100.0,0.0,0.0
+505,Just Shapes & Beats,4.0,100.0,0.0,0.0
+506,The Awesome Adventures of Captain Spirit,1.0,100.0,0.0,0.0
+507,Scars Above,4.0,100.0,0.0,0.0
+508,Mortal Kombat X,4.0,100.0,0.0,0.0
+509,Tales of Zestiria,1.0,100.0,0.0,0.0
+510,Disney Dreamlight Valley,4.0,100.0,0.0,0.0
+511,Forza Horizon 4,2.0,66.66666666666666,0.0,0.0
+512,Kingdom Come: Deliverance,3.0,100.0,0.0,0.0
+513,Crossout,4.0,0.0,0.0,0.0
+514,Spelunky,3.1666666666666665,50.0,16.666666666666664,16.666666666666664
+515,Resident Evil 2,4.0,100.0,0.0,0.0
+516,The Long Dark,4.0,100.0,0.0,0.0
+517,A Space for the Unbound,4.0,100.0,0.0,0.0
+518,Voice of Cards: The Beasts of Burden,0.0,100.0,0.0,0.0
+519,Max Payne 2: The Fall of Max Payne,4.0,100.0,0.0,0.0
+520,Baldur's Gate 3,4.041666666666667,75.0,4.166666666666666,4.166666666666666
+521,Five Nights at Freddy's 3,3.5,75.0,0.0,25.0
+522,OlliOlli World,3.0,100.0,0.0,0.0
+523,Ultimate Chicken Horse,4.5,50.0,50.0,0.0
+524,Post Void,3.0,0.0,0.0,0.0
+525,Rise of the Tomb Raider,3.3333333333333335,100.0,0.0,0.0
+526,Mini Metro,4.0,100.0,0.0,0.0
+527,"Good Pizza, Great Pizza",3.0,0.0,100.0,0.0
+528,The Legend of Heroes: Trails in the Sky the 3rd,3.5,100.0,0.0,0.0
+529,VRChat,2.6666666666666665,66.66666666666666,33.33333333333333,0.0
+530,Fallout 4,2.6666666666666665,83.33333333333334,16.666666666666664,0.0
+531,Far Cry 6,3.0,0.0,0.0,100.0
+532,Brawlhalla,2.3333333333333335,66.66666666666666,0.0,0.0
+533,Foxhole,5.0,100.0,0.0,0.0
+534,Enter the Gungeon,3.1666666666666665,83.33333333333334,16.666666666666664,0.0
+535,Back 4 Blood,1.0,0.0,0.0,100.0
+536,Tiny Rogues,5.0,100.0,0.0,0.0
+537,Sid Meier's Civilization VI,3.375,50.0,0.0,0.0
+538,"Warhammer 40,000: Darktide",3.5,50.0,0.0,0.0
+539,Dream Daddy: A Dad Dating Simulator,2.0,0.0,0.0,0.0
+540,Deep Rock Galactic,4.0,75.0,0.0,0.0
+541,Close to the Sun,0.0,100.0,0.0,0.0
+542,My Friend Pedro,4.0,100.0,0.0,0.0
+543,Sunset Overdrive,1.5,0.0,0.0,100.0
+544,Team Fortress Classic,0.0,0.0,0.0,0.0
+545,Marvel's Spider-Man: Miles Morales,3.5238095238095237,95.23809523809523,0.0,4.761904761904762
+546,Black Mesa,3.75,75.0,0.0,25.0
+547,Assassin's Creed Odyssey,2.75,75.0,8.333333333333332,0.0
+548,Lara Croft GO,3.0,100.0,0.0,0.0
+549,Grounded,0.0,0.0,0.0,0.0
+550,BioShock Infinite,4.0,100.0,0.0,0.0
+551,Garden Story,3.0,100.0,0.0,0.0
+552,Tabletop Simulator,4.0,0.0,100.0,0.0
+553,XIII,1.0,100.0,0.0,0.0
+554,Farming Simulator 19,3.0,0.0,0.0,100.0
+555,"Warhammer 40,000: Boltgun",2.5,50.0,0.0,50.0
+556,Grand Theft Auto: Vice City - The Definitive Edition,4.0,100.0,0.0,0.0
+557,Recettear: An Item Shop's Tale,5.0,100.0,0.0,0.0
+558,"Haiku, the Robot",3.0,100.0,0.0,0.0
+559,The Case of the Golden Idol,0.0,100.0,0.0,0.0
+560,Eldritch,4.0,100.0,0.0,0.0
+561,Little Inferno,2.0,0.0,0.0,100.0
+562,Condemned: Criminal Origins,4.0,100.0,0.0,0.0
+563,Fate/Samurai Remnant,4.333333333333333,100.0,0.0,0.0
+564,Shiren the Wanderer: The Tower of Fortune and the Dice of Fate,4.0,0.0,0.0,100.0
+565,GreedFall,2.0,0.0,50.0,50.0
+566,Left 4 Dead 2,3.909090909090909,72.72727272727273,0.0,0.0
+567,Return to Castle Wolfenstein,2.0,0.0,0.0,0.0
+568,Caladrius Blaze,4.0,100.0,0.0,0.0
+569,Evil West,1.6666666666666667,100.0,0.0,0.0
+570,Hitman: Blood Money,4.0,100.0,0.0,0.0
+571,Faerie Solitaire,3.0,100.0,0.0,0.0
+572,Far Cry 5,3.111111111111111,88.88888888888889,11.11111111111111,0.0
+573,Tropico 4,5.0,100.0,0.0,0.0
+574,Superliminal,3.875,100.0,0.0,0.0
+575,Void Stranger,4.25,100.0,0.0,0.0
+576,SteamWorld Dig,3.5,50.0,0.0,0.0
+577,Far Cry 4,2.75,75.0,0.0,0.0
+578,Halo Infinite,2.3333333333333335,100.0,0.0,0.0
+579,Fantasy Strike,2.0,0.0,0.0,0.0
+580,Golden Light,3.0,0.0,100.0,0.0
+581,Days Gone,1.25,50.0,25.0,25.0
+582,Rusty Lake Paradise,3.0,100.0,0.0,0.0
+583,Fran Bow,4.0,100.0,0.0,0.0
+584,Fallout 3,2.5714285714285716,85.71428571428571,0.0,14.285714285714285
+585,The Texas Chain Saw Massacre,2.6666666666666665,66.66666666666666,0.0,0.0
+586,Return of the Obra Dinn,4.333333333333333,100.0,0.0,0.0
+587,A Bird Story,5.0,100.0,0.0,0.0
+588,Party Animals,3.0,66.66666666666666,0.0,0.0
+589,Marvel Puzzle Quest,3.0,100.0,0.0,0.0
+590,Angels of Death,3.0,100.0,0.0,0.0
+591,Strange Horticulture,3.0,100.0,0.0,0.0
+592,Serious Sam HD: The First Encounter,4.0,0.0,100.0,0.0
+593,The Amazing Spider-Man 2,2.5,100.0,0.0,0.0
+594,Pit People,2.0,0.0,0.0,100.0
+595,Horizon Zero Dawn,3.2857142857142856,85.71428571428571,14.285714285714285,0.0
+596,Fire Pro Wrestling World,5.0,0.0,100.0,0.0
+597,Beyond: Two Souls,3.0,100.0,0.0,0.0
+598,Magic: The Gathering Arena,1.0,100.0,0.0,0.0
+599,The Legend of Heroes: Trails of Cold Steel III,4.2,100.0,0.0,0.0
+600,Geometry Dash,3.4,60.0,0.0,0.0
+601,Hitman: Codename 47,2.5,100.0,0.0,0.0
+602,Prison Architect,3.0,0.0,0.0,0.0
+603,The Murder of Sonic the Hedgehog,3.6,100.0,0.0,0.0
+604,Sonic Frontiers,3.0,100.0,0.0,0.0
+605,Fear & Hunger,2.7142857142857144,71.42857142857143,0.0,0.0
+606,"Warhammer 40,000: Dawn of War - Game of the Year Edition",5.0,100.0,0.0,0.0
+607,Kindergarten,4.0,100.0,0.0,0.0
+608,Ys: The Oath in Felghana,5.0,100.0,0.0,0.0
+609,Detention,4.0,100.0,0.0,0.0
+610,Super Animal Royale,3.0,100.0,0.0,0.0
+611,Forza Horizon 5,2.5,50.0,0.0,50.0
+612,Outer Wilds,4.214285714285714,78.57142857142857,14.285714285714285,7.142857142857142
+613,Europa Universalis IV,1.5,0.0,0.0,0.0
+614,Just Cause 2,4.0,50.0,0.0,0.0
+615,VVVVVV,4.0,100.0,0.0,0.0
+616,Shadow of the Tomb Raider,3.6666666666666665,100.0,0.0,0.0
+617,Tiny Tina's Wonderlands,3.0,100.0,0.0,0.0
+618,Destiny 2,3.6,60.0,0.0,20.0
+619,Dota 2,3.4,40.0,0.0,0.0
+620,A Plague Tale: Innocence,3.6,100.0,0.0,0.0
+621,Rust,2.0,50.0,0.0,50.0
+622,Risk of Rain,1.5,50.0,0.0,50.0
+623,A Juggler's Tale,5.0,100.0,0.0,0.0
+624,Sleeping Dogs: Definitive Edition,4.5,100.0,0.0,0.0
+625,The Witcher 3: Wild Hunt,3.8,70.0,10.0,20.0
+626,WrestleQuest,2.0,0.0,100.0,0.0
+627,Shovel Knight: Treasure Trove,4.666666666666667,100.0,0.0,0.0
+628,FIFA 22,4.0,100.0,0.0,0.0
+629,The Cosmic Wheel Sisterhood,4.333333333333333,83.33333333333334,0.0,0.0
+1,Cyberpunk 2077,3.789473684210526,100.0,0.0,0.0
+2,Counter-Strike 2,2.25,50.0,0.0,0.0
+3,Baldur's Gate 3,3.92,76.0,16.0,0.0
+4,Apex Legends,2.272727272727273,36.36363636363637,0.0,9.090909090909092
+5,Dota 2,3.0,33.33333333333333,0.0,16.666666666666664
